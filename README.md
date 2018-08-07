@@ -15,15 +15,15 @@ CAWeb (This theme is a requirement in order to use the import, and must be versi
 
 Premium Plugins
 ----------------
-All-in-One WP Migration (This plugin is a requirement in order to use the import, and must be version 6.72. https://servmask.com/)
-All-in-One WP Migration FTP Extension (https://servmask.com/)
-All-in-One WP Migration Multisite Extension(This plugin is a requirement in order to use the import, and must be version 3.54. https://servmask.com/)
-All-in-One WP Migration URL Extension (https://servmask.com/)
-Dashboard Widgets Order (https://premium.wpmudev.org/)
-Ultimate Branding (https://premium.wpmudev.org/)
-WP Smush Pro (https://premium.wpmudev.org/)
-Dashboard Feeds (https://premium.wpmudev.org/)
-WPMU DEV Dashboard (https://premium.wpmudev.org/)
+- All-in-One WP Migration (This plugin is a requirement in order to use the import, and must be version 6.72. https://servmask.com/)
+- All-in-One WP Migration FTP Extension (https://servmask.com/)
+- All-in-One WP Migration Multisite Extension(This plugin is a requirement in order to use the import, and must be version 3.54. https://servmask.com/)
+- All-in-One WP Migration URL Extension (https://servmask.com/)
+- Dashboard Widgets Order (https://premium.wpmudev.org/)
+- Ultimate Branding (https://premium.wpmudev.org/)
+- WP Smush Pro (https://premium.wpmudev.org/)
+- Dashboard Feeds (https://premium.wpmudev.org/)
+- WPMU DEV Dashboard (https://premium.wpmudev.org/)
 
 Free Plugins
 -------------
