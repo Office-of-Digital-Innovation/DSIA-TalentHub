@@ -1,7 +1,6 @@
 # DSIA-TalentHub
-With TalentHub, a project manager or a team lead that has a skill and resource gap can easily find and fill their need based on numerous data and profile points designed to be an ideal match.
 
-Talent Hub creates an avenue for staff looking for new experiences, and allows for project owners or managers to find a single resource or build an entire IT dream team.
+TalentHub is designed to be an open source and sustainable platform designed to match Project Managers and those seeking talent with California's vast and talented workforce. This approach will minimize the need to procure needed help and instead harness in-house state talent, which will enable California to save time and money and also lead to faster development and innovative digital solutions.
 
 This solution requires the following plugins to work:
 ---------------------------------------------
