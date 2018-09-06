@@ -2,6 +2,10 @@
 
 TalentHub is designed to be an open source and sustainable platform designed to match Project Managers and those seeking talent with California's vast and talented workforce. This approach will minimize the need to procure needed help and instead harness in-house state talent, which will enable California to save time and money and also lead to faster development and innovative digital solutions.
 
+Prototype URL
+----------------
+http://ca-fusion-web-ca-fusion-project.7e14.starter-us-west-2.openshiftapps.com/
+
 This solution requires the following plugins to work:
 ---------------------------------------------
 
