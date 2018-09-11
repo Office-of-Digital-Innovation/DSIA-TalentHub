@@ -4,7 +4,7 @@ TalentHub is designed to be an open source and sustainable platform designed to 
 
 Prototype URL
 ----------------
-http://ca-fusion-web-ca-fusion-project.7e14.starter-us-west-2.openshiftapps.com/
+https://talenthub.wordpress.technology.ca.gov/
 
 This solution requires the following plugins to work:
 ---------------------------------------------
